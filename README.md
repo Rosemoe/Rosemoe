@@ -1,4 +1,5 @@
-![Rosemoe](/banner.png)
+<img src="/banner.png"/>
+
 A senior high school student who loves open source projects.   
 ***Currently Busy with school work and unavailable***   
 Like Arcaea but not good at playing it. Friend Code:615526171
