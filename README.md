@@ -1,6 +1,6 @@
 <img src="/banner.png"/>
 
-A senior high school student (waiting for university entrance?) who loves open source projects.   
+A university student who loves open source projects.   
 Play Arcaea, Phigros, Malody as well as osu! std...
 ### Overall Status
 ![Stats](https://github-readme-stats.vercel.app/api?username=Rosemoe&show_icons=true&icon_color=990000&title_color=990000)    
