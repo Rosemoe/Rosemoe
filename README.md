@@ -1,7 +1,7 @@
 <img src="/banner.png"/>
 
 
-![](https://komarev.com/ghpvc/?username=Rosemoe)  
+[![wakatime](https://wakatime.com/badge/user/2958d298-dda5-478a-a46a-582559a6d0c6.svg)](https://wakatime.com/@2958d298-dda5-478a-a46a-582559a6d0c6) ![](https://komarev.com/ghpvc/?username=Rosemoe)  
 An undergraduate who loves open source projects.   
 Play Arcaea, Project Sekai and osu!
 ### Overall Status
